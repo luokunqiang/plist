@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://zhongchuang.lanbaonet.com/zcqp.png</string>
+					<string>http://downloads.lanbaonet.com/zcqp.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://zhongchuang.lanbaonet.com/zcqp57.png</string>
+					<string>http://downloads.lanbaonet.com/zcqp57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
